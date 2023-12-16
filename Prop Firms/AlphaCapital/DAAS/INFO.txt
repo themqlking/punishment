@@ -1,0 +1,7 @@
+SERVER: ACG-MarketsLive (MT5)
+
+PAIR: US30.pro / NAS.pro
+
+STRATEGY: 1 LEG SLOW (Min 2 minutes)
+
+Remember to use manual trades on same pairs for masking, use similar lot size or same.
